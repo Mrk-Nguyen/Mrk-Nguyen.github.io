@@ -1,2 +1,1 @@
-# Mrk-Nguyen.github.io
-Static website
+Mark's static website using Jekyll
