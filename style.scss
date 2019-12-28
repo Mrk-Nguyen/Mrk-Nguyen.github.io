@@ -284,6 +284,19 @@ footer {
   text-align: center;
 }
 
+//
+// .icon8
+//
+.icon8 {
+  font-size: 1px;
+  pointer-events: none;
+  cursor: default;
+  color: $lightGray;
+  a {
+    color: $lightGray;
+  }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
