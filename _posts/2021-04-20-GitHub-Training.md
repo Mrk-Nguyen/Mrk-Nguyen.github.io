@@ -5,8 +5,6 @@ category: training
 excerpt: Convincing your Data Scientists to use code management
 usemathjax: true
 ---
-Training Data Scientists to Use GitHub
-
 ## Introduction
 
 Storing source code on GitHub is a modern practice in Software Development. I’ve worked with teams in GitHub and have enjoyed the features and convenience it provides for code collaboration and management.
