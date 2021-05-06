@@ -35,7 +35,7 @@ If you do not have access to online courses, I suggest you create a small course
 
 ## Run Through a GitHub Project with the Team
 
-I could not find a satisfactory course or project involving real-world examples with git and GitHub, so I created my own project that resonated with them and worked through the project with them. I wanted to simulate as much of the flow of communication and work they would typically with a real project.
+I could not find a satisfactory course or project involving real-world examples with git and GitHub, so I created my own project that resonated with them and worked through the project with them. I wanted to simulate as much of the flow of communication and work they would typically experience in a an actual project.
 
 My team followed the steps through a workbook and I acted as the project lead. They committed code to the GitHub repo and created pull requests.
 
@@ -43,7 +43,7 @@ I ran code reviews, left comments, and asked them to make further commits before
 
 The specific project I created involved creating a machine learning endpoint that can be automatically tested and deployed on Google Cloud Run via a Docker image using Python Flask as the web application framework. The Data Scientists on my team have not had experience seeing how a Continuous Integration/Continuous Development (CI/CD) pipeline works with a Machine Learning model deployment. 
 
-They wanted to learn how the magic happens involving auto deployments. Make sure you create a project that resonates with your team members. It makes the whole process more fun and engaging for them.
+They wanted to learn how the magic happens involving auto deployments. Make sure you create a project that resonates with your team members; it makes the whole process more fun and engaging for them.
 
 ## Summary
 
