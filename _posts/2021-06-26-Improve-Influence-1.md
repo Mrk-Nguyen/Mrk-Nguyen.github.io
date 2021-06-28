@@ -15,7 +15,8 @@ Photo by [Windows](https://unsplash.com/@windows?utm_source=unsplash&utm_medium=
 I truly believe a Data Scientists’ ultimate level of success is how well they can influence the business through their insights. I define an influencer as a person who can connect and engage with their audience, ultimately helping their audience reach the same data-driven conclusions you have to drive the business. 
 
 Yes, there are some Data Scientist roles out there that are more engineering-focused where output are models, however this article focuses on an influencer-focused role. Besides wielding political influence, influence is wielded through presentations.
-Two Styles
+
+## Two Styles
 
 For data-driven presentations, I’ve witnessed two main styles: Funnel Down and Funnel Up. Imagine a presentation is composed of a series of thoughts and insights. Furthermore, thoughts can be composed of a chain of information, where one piece of information leads to another piece of information until a complete thought is formed. The entire chain of information represents a complete thought from beginning to end:
 
